@@ -1,3 +1,5 @@
+<img src="https://contenthub-static.grammarly.com/blog/wp-content/uploads/2017/10/tech-youtube.jpg" width=100%/>
+
 ### Hi there, I'm Tushar - aka [Mr DeathEater] 👋
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftsaxena4k)
