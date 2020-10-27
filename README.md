@@ -49,7 +49,7 @@
 
 <div align="center">
 
-### `--------------------- Come Find Me ---------------------`
+### `Come Find Me`
 
 [<img alt="Tushar | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733635.svg" />][twitter]
 [<img alt="Tushar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
