@@ -1,26 +1,40 @@
 <img src="./Banner.gif" width=100% />
 
-### Hi there, I'm Tushar - aka [Mr DeathEater] 👋
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftsaxena4k)
-## I'm a Student,Developer,Engineer and Tech Enthusiast!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tushar - aka [ tsaxena4k,3k,2k... ]
 
-- 🔭 I’m currently working on a Course
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for opportunities
-- 🥅 2020 Goals: Contribute more to my skills
-- ⚡ Fun fact: I love to sketch and do gaming on my PC.
+<hr/>
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+## I'm a Student, Developer, Engineer and Tech Enthusiast!
+
+- #### 👦 Also,I am 
+   - currently working on many Projects & Ideas 💡
+   - doing lots of debudding 🔨
+   - looking for opportunities 🔆
+   - trying to figure out life 🤣
+- #### 🥅 2020 Goals
+  - Contribute more to [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+  - wear a 😷 and maintain social distancing 👣
+
+- #### ⚡ Fun facts
+	- I love to sketch & DIY stuff✏️
+	- my inverse is a Gamer 🎮
+	- Like graphic designing & Illustration 🔥
+
+<div align="center">
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+[<img align="left" alt="Tushar | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733635.svg" />][twitter]
+[<img align="left" alt="Tushar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Tushar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Tuhsra | facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384005.svg" />][facebook]
+[<img align="left" alt="Tuhsra | stackoverflow" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111690.svg" />][stackoverflow]
+[<img align="left" alt="Tuhsra | discord" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111363.svg" />][discord]
+[<img align="left" alt="Tuhsra | pinterest" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/49/49440.svg" />][pinterest]
+[<img align="left" alt="Tuhsra | dribble" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1532/1532439.svg" />][dribble]
+[<img align="left" alt="Tuhsra | codepen" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111501.svg" />][codepen]
+<br/>
 
 ### Languages and Tools:
 
@@ -32,6 +46,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+</div>
 
 <br />
 <br />
@@ -48,3 +64,9 @@
 [twitter]: https://twitter.com/tsaxena4k
 [instagram]: https://www.instagram.com/tsaxena4k/
 [linkedin]: https://www.linkedin.com/in/tushar-saxena-94b742184/
+[facebook]: https://www.facebook.com/tushar.saxena.56232
+[stackoverflow]: https://stackoverflow.com/users/14212597/tushar-saxena
+[discord]: https://discord.gg/cvqaGJ
+[pinterest]: https://in.pinterest.com/tusharsaxena562/
+[dribble]: https://dribbble.com/tsaxen3k
+[codepen]: https://codepen.io/tsaxena4k
