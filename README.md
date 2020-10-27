@@ -8,6 +8,8 @@
 
 ## I'm a Student, Developer, Engineer and Tech Enthusiast!
 
+<img align="right" src="./butterflies.gif" alt="gif" width=50%/>
+
 - #### 👦 Also,I am 
    - currently working on many Projects & Ideas 💡
    - doing lots of debudding 🔨
