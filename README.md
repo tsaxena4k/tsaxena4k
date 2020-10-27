@@ -25,15 +25,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Tushar | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733635.svg" />][twitter]
-[<img align="left" alt="Tushar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Tushar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Tuhsra | facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384005.svg" />][facebook]
-[<img align="left" alt="Tuhsra | stackoverflow" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111690.svg" />][stackoverflow]
-[<img align="left" alt="Tuhsra | discord" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111363.svg" />][discord]
-[<img align="left" alt="Tuhsra | pinterest" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/49/49440.svg" />][pinterest]
-[<img align="left" alt="Tuhsra | dribble" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1532/1532439.svg" />][dribble]
-[<img align="left" alt="Tuhsra | codepen" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111501.svg" />][codepen]
+[<img alt="Tushar | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733635.svg" />][twitter]
+[<img alt="Tushar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="Tushar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img alt="Tuhsra | facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384005.svg" />][facebook]
+[<img alt="Tuhsra | stackoverflow" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111690.svg" />][stackoverflow]
+[<img alt="Tuhsra | discord" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111363.svg" />][discord]
+[<img alt="Tuhsra | pinterest" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/49/49440.svg" />][pinterest]
+[<img alt="Tuhsra | dribble" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1532/1532439.svg" />][dribble]
+[<img alt="Tuhsra | codepen" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111501.svg" />][codepen]
 <br/>
 
 ### Languages and Tools:
