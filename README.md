@@ -8,7 +8,7 @@
 
 ## I'm a Student, Developer, Engineer and Tech Enthusiast!
 
-<img align="right" src="./butterflies.gif" alt="gif" width=50%/>
+<img align="right" src="./minecraft.gif" alt="gif" width=25%/>
 
 - #### 👦 Also,I am 
    - currently working on many Projects & Ideas 💡
