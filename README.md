@@ -41,9 +41,8 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsaxena4k&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tsaxena4k&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsaxena4k&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tsaxena4k&show_icons=true&theme=radical)
+------ | ------
 
 <div align="center">
 
@@ -63,10 +62,12 @@
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 
 </div>
+
+
 
 
 ---
