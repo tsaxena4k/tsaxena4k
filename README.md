@@ -1,7 +1,8 @@
-<img src="./Banner.gif" width=100% />
+<img src="./Cover.gif" width=100% />
 
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tushar - aka [ tsaxena4k,3k,2k... ]
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tushar - aka [ tsaxena4k,3k,2k... ] [![Generic badge](https://img.shields.io/badge/AskMe-Anything-7ddcfa.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Website-comingSoon-7ddcfa.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/SocialLinks-AtTheEnd-7ddcfa.svg)](https://shields.io/) [![Awesome Badges](https://img.shields.io/badge/badges-awesome-7ddcfa.svg)](https://github.com/Naereen/badges)
+
 
 <hr/>
 
@@ -21,7 +22,7 @@
 	- my inverse is a Gamer 🎮
 	- Like graphic designing & Illustration 🔥
 
-### Languages and Tools 🛠️
+## Languages and Tools 🛠️
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -46,7 +47,7 @@
 
 <div align="center">
 
-### `Lets grow together Lets Connect:`
+### `--------------------- Come Find Me ---------------------`
 
 [<img alt="Tushar | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733635.svg" />][twitter]
 [<img alt="Tushar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
