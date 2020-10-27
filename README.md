@@ -1,4 +1,4 @@
-<img src="https://contenthub-static.grammarly.com/blog/wp-content/uploads/2017/10/tech-youtube.jpg" width=100%/>
+<img src="./Banner.gif" width=100% />
 
 ### Hi there, I'm Tushar - aka [Mr DeathEater] 👋
 
