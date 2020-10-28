@@ -12,7 +12,7 @@
 
 - #### 👦 Also,I am 
    - currently working on many Projects & Ideas 💡
-   - doing lots of debudding 🔨
+   - doing lots of debugging 🔨
    - looking for opportunities 🔆
    - trying to figure out life 🤣
 - #### 🥅 2020 Goals
