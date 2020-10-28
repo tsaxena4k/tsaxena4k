@@ -6,7 +6,7 @@
 
 <hr/>
 
-## I'm a Student, Developer, Engineer and Tech Enthusiast!
+## I'm a Student👨‍🎓Developer👨‍💻 Engineer🦸‍♂️ and Tech Enthusiast!🤖
 
 <img align="right" src="./spiningCoin.gif" alt="gif" width=25%/>
 
