@@ -1,12 +1,4 @@
 <img src="./Cover.gif" width=100% />
-<div align="center"> 
-
-# `Happy Halloween!🎃🧛 `
-
-</br>
-
-</div>
-
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tushar - aka [ tsaxena4k,3k,2k... ] [![Generic badge](https://img.shields.io/badge/AskMe-Anything-7ddcfa.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Website-comingSoon-7ddcfa.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/SocialLinks-AtTheEnd-7ddcfa.svg)](https://shields.io/) [![Awesome Badges](https://img.shields.io/badge/badges-awesome-7ddcfa.svg)](https://github.com/Naereen/badges)
 
@@ -39,7 +31,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Terminal" width="24px" src="https://svgshare.com/i/QwX.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />\
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="26px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
