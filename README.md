@@ -60,15 +60,15 @@
 
 ### `Come Find Me`
 
-[<img alt="Tushar | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733635.svg" />][twitter]
-[<img alt="Tushar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="Tushar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img alt="Tuhsra | facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384005.svg" />][facebook]
-[<img alt="Tuhsra | stackoverflow" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111690.svg" />][stackoverflow]
-[<img alt="Tuhsra | discord" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111363.svg" />][discord]
-[<img alt="Tuhsra | pinterest" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/49/49440.svg" />][pinterest]
-[<img alt="Tuhsra | dribble" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1532/1532439.svg" />][dribble]
-[<img alt="Tuhsra | codepen" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111501.svg" />][codepen]
+[<img alt="Tushar | Twitter" width="22px" src="https://svgshare.com/i/Snh.svg" />][twitter]
+[<img alt="Tushar | LinkedIn" width="22px" src="https://svgshare.com/i/SoD.svg" />][linkedin]
+[<img alt="Tushar | Instagram" width="22px" src="https://svgshare.com/i/Sko.svg" />][instagram]
+[<img alt="Tuhsra | facebook" width="22px" src="https://svgshare.com/i/Snk.svg" />][facebook]
+[<img alt="Tuhsra | stackoverflow" width="22px" src="https://svgshare.com/i/Snj.svg" />][stackoverflow]
+[<img alt="Tuhsra | discord" width="22px" src="https://svgshare.com/i/Smt.svg" />][discord]
+[<img alt="Tuhsra | pinterest" width="22px" src="https://svgshare.com/i/SoQ.svg" />][pinterest]
+[<img alt="Tuhsra | dribble" width="22px" src="https://svgshare.com/i/Sni.svg" />][dribble]
+[<img alt="Tuhsra | codepen" width="22px" src="https://svgshare.com/i/Sn1.svg" />][codepen]
 
 <br/>
 
