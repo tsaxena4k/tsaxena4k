@@ -72,7 +72,7 @@
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-[![ForTheBadge powered-by-electricity](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+[![ForTheBadge powered-by-electricity](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](http://ForTheBadge.com)
 [![ForTheBadge winter-is-coming](https://forthebadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 
 </div>
