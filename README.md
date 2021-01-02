@@ -1,6 +1,6 @@
 <img src="./Cover.gif" width=100% />
 
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tushar - aka [ tsaxena4k,3k,2k....] 
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tushar - aka [ tsaxena4k,3k,2k...] 
 [![Generic badge](https://img.shields.io/badge/AskMe-Anything-7ddcfa.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Website-comingSoon-7ddcfa.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/SocialLinks-AtTheEnd-7ddcfa.svg)](https://shields.io/) [![Awesome Badges](https://img.shields.io/badge/badges-awesome-7ddcfa.svg)](https://github.com/Naereen/badges)
 
 
@@ -23,6 +23,10 @@
 	- I love to sketch & DIY stuff✏️
 	- my inverse is a Gamer 🎮
 	- Like graphic designing & Illustration 🔥
+	
+- #### 📝 Blogs 
+	- [Integrating Leaflet.js with Next.js](https://dev.to/tsaxena4k/integrating-next-js-with-leaflet-js-mapbox-1351)
+		
 
 ## Languages and Tools 🛠️
 
@@ -68,8 +72,8 @@
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
+[![ForTheBadge powered-by-electricity](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+[![ForTheBadge winter-is-coming](https://forthebadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 
 </div>
 
