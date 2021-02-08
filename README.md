@@ -20,6 +20,7 @@
   - Contribute more to [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
   - Still wear a 😷 and maintain social distancing 👣 (Kinda 🤭)
   - Make every freakn second count 😤
+  - Grow along with the community 👴 
   - Explore more, seek for things neva done before 🌏
 
 - #### ⚡ Fun facts
