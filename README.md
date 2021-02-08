@@ -6,12 +6,13 @@
 
 <hr/>
 
-## I'm a Student👨‍🎓Developer👨‍💻 Engineer🦸‍♂️ and Tech Enthusiast!🤖
+## I'm a Student👨‍🎓Developer👨‍💻 Engineer🦸‍♂️ Tech Enthusiast!🤖 and Self-Motivator😇
 
 <img align="right" src="./spiningCoin.gif" alt="gif" width=25%/>
 
 - #### 👦 Also,I am 
    - currently working on many Projects & Ideas 💡
+   - Rebuilding a community 👥
    - doing lots of debugging 🔨
    - looking for opportunities 🔆
    - trying to figure out life 🤣
@@ -25,6 +26,7 @@
 	- I love to sketch & DIY stuff✏️
 	- my inverse is a Gamer 🎮
 	- Like graphic designing & Illustration 🔥
+	- Also Likes to solve bugs and errors now and then ⚙️
 	
 - #### 📝 Blogs 
 	- [Integrating Leaflet.js with Next.js](https://dev.to/tsaxena4k/integrating-next-js-with-leaflet-js-mapbox-1351)
