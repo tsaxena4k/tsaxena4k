@@ -31,7 +31,8 @@
 	
 - #### 📝 Blogs 
 	- [Integrating Leaflet.js with Next.js](https://dev.to/tsaxena4k/integrating-next-js-with-leaflet-js-mapbox-1351)
-		
+	
+<a href="https://app.daily.dev/tsaxena4k"><img src="https://api.daily.dev/devcards/6945bec76d7e4b9c8add1f960029b275.png?r=e43" width="400" alt="Tushar saxena's Dev Card"/></a>
 
 ## Languages and Tools 🛠️
 
@@ -79,6 +80,7 @@
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 [![ForTheBadge powered-by-electricity](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](http://ForTheBadge.com)
 [![ForTheBadge winter-is-coming](https://forthebadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
+	
 
 </div>
 
