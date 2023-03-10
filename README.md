@@ -1,7 +1,7 @@
 <img src="./Banner.gif" width=100% />
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"> I'm Tushar - aka [ tsaxena4k,3k,2k...] 
-[![Generic badge](https://img.shields.io/badge/AskMe-Anything-7ddcfa.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Website-comingSoon-7ddcfa.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/SocialLinks-AtTheEnd-7ddcfa.svg)](https://shields.io/) [![Awesome Badges](https://img.shields.io/badge/badges-awesome-7ddcfa.svg)](https://github.com/Naereen/badges)
+[![Generic badge](https://img.shields.io/badge/AskMe-Anything-7ddcfa.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Website-comingSoon-7ddcfa.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/SocialLinks-AtTheEnd-7ddcfa.svg)](https://shields.io/) [![Awesome Badges](https://img.shields.io/badge/badges-awesome-7ddcfa.svg)](https://github.com/Naereen/badges)gh
 
 
 ## I'm a Developer👨‍💻 Engineer🦸‍♂️Tech Enthusiast!🤖and Self-Motivator😇
