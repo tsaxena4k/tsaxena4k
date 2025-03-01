@@ -12,7 +12,7 @@
    - doing lots of debugging 🔨
    - looking for opportunities 🔆
    - trying to figure out life 🤣
-- #### 🥅 2023 Goals
+- #### 🥅 2025 Goals
   - Contribute more to [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
   - Make every freakn second count 😤
   - Grow along with the community 👴 
